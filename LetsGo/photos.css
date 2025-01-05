@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    margin: 10%/6;
+}
+
+nav {
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 30%;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    border-bottom: 2px solid #f1f1f1;
+    padding: 20px 0;
+    margin-left: 10%/6;
+}

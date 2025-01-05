@@ -1,0 +1,87 @@
+body {
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    background-color: palegoldenrod;
+    border: 1px solid black;
+    display: inline;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid purple;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+span {
+    background-color: paleturquoise;
+    border: 1px solid black width: 500px;
+    padding: 50px;
+    /* margin: 50px; */
+}
+
+img {
+    width: 200px;
+    display: block;
+}
+
+p {
+    /* font-weight: 600; */
+    margin-bottom: 5px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+button {
+    background: white;
+    color: black;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#error {
+    color: red;
+    font-weight: 200;
+}
+
+.active {
+    color: .red;
+}
+
+#div1 {
+    background: rgba(red, green, blue, alpha)
+}
+
+#div2 {
+    background: rgba(red, green, blue, alpha)
+}
+
+footer {
+    /* color: blueviolet; */
+}
+
+h2+button {
+    color: cadetblue;
+}
+
+footer>ul>li {
+    background-color: rgb(25, 200, 54);
+}
+
+input[type="password"] {
+    color: darkgreen;
+}

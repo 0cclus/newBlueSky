@@ -1,0 +1,18 @@
+let errorParagraph = document.getElementById("error")
+let errror3 = document.getElementById("purchase-btn")
+
+//let buttonThing = document.getElementById("purchase-btn")
+
+console.log(errorParagraph)
+
+function purchase() {
+    console.log("button clicked")
+    // errorParagraph.textContent = "Something went Wrong, please try again."
+    errorParagraph.textContent = "Something!"
+    errror3.innerText = "Ouch!"
+}
+
+let num1 = 8
+let num2 = 2
+
+document.getElementById

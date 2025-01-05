@@ -1,0 +1,45 @@
+body {
+    color: purple;
+}
+
+h1 {
+    background-color: blue;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#one {
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: black;
+    background-color: rgb(240, 159, 60);
+    border-style: solid;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#two {
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(208, 118, 7);
+    border-style: solid;
+    box-sizing: border-box;
+    /* margin-top: 20px; */
+    margin: 200px;
+}
+
+#three {
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: rgb(13, 12, 12);
+    background-color: rgb(111, 63, 3);
+    border-style: solid;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    /* margin-left: 200px; */
+    margin-top: 0px;
+}
